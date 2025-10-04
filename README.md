@@ -77,6 +77,41 @@ Even though this is a **simulation**, it shows key ideas in human-AI collaborati
 
 ---
 
+## 1️⃣ The Human Acts as the Decision Maker
+
+- You move the sliders for **pH, temperature, RBC flexibility, flow rate**, etc.  
+- These decisions **directly affect the outcome** of oxygen delivery.  
+- AI doesn’t override your choices; it **advises**, but you must choose to apply it.  
+
+---
+
+## 2️⃣ The AI Provides Suggestions, Not Commands
+
+- AI calculates the predicted **oxygen efficiency** based on your settings.  
+- It might say:  
+  > “Increasing temperature by 2°C could improve oxygen delivery by 5%.”  
+- You **evaluate and decide** whether to accept, tweak, or ignore it.  
+- This mirrors how scientists actually work: computers analyze data, but **humans make the final call**.  
+
+---
+
+## 3️⃣ Real-Time Feedback Loop
+
+- You see **live charts** updating as you adjust parameters.  
+- You can try multiple combinations, **observe the results**, then decide on the next steps.  
+- This cycle repeats:  
+  **human adjusts → AI predicts → human decides → repeat**  
+- This is the core of **Human-in-the-Loop (HITL)** — a loop where the AI augments human decisions instead of replacing them.  
+
+---
+
+## 4️⃣ Why This is Useful
+
+- **Encourages critical thinking:** You can’t just rely on AI blindly.  
+- **Makes experimentation safe and controlled:** Humans supervise what changes are applied.  
+- **Demonstrates real scientific collaboration:** AI is a tool, **human judgment drives the process**.
+
+
 ## 🖥️ Deployment
 
 You can **host this on GitHub Pages** easily:
