@@ -125,7 +125,7 @@ You can **host this on GitHub Pages** easily:
 
 ## 👩‍🏫 Educational Disclaimer
 
-This app is **for learning and demo purposes only**. It does **not provide medical advice**. All numbers are simplified approximations.
+This app is **for  demo purposes only**. It does **not provide medical advice**. All numbers are simplified approximations.
 
 ---
 
@@ -138,4 +138,4 @@ This app is **for learning and demo purposes only**. It does **not provide medic
 
 ---
 
-Made with ❤️ for hackathons, education, and interactive learning.
+Made with ❤️ 
